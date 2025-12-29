@@ -1,4 +1,4 @@
-**# Heroes Task Solution
+# Heroes Task Solution
 
 Реализация алгоритмов для пошаговой стратегии Heroes.
 
